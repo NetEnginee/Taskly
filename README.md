@@ -1,4 +1,4 @@
-# 🚀 Taskly | Minimalist To-Do List
+# 🚀 DoLume | Minimalist To-Do List
 
 > **Kelola Harimu, Tanpa Gangguan.**
 >
@@ -43,7 +43,7 @@ Karena ini adalah website statis, Anda tidak perlu menginstall `npm` atau backen
 **Cara 1: Langsung Buka**
 1.  Download file ZIP dari repository ini atau clone menggunakan git:
     ```bash
-    git clone [https://github.com/NetEnginee/Taskly.git](https://github.com/NetEnginee/Taskly.git)
+    git clone [https://github.com/NetEnginee/DoLume.git](https://github.com/NetEnginee/DoLume.git)
     ```
 2.  Buka file `index.html` langsung di browser Anda (Chrome, Firefox, Edge, dll).
 
